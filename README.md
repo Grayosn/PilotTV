@@ -1,2 +1,0 @@
-# PilotTV
-PilotTV Project
